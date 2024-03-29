@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-29T09:44:56 BRT" name="restApiTest" finished-at="2024-03-29T09:44:59 BRT" duration-ms="2880">
+    <groups>
+    </groups>
+    <test started-at="2024-03-29T09:44:56 BRT" name="Command line test" finished-at="2024-03-29T09:44:59 BRT" duration-ms="2880">
+      <class name="restApiTest">
+        <test-method signature="RequestGet()[pri:0, instance:restApiTest@4e3958e7]" started-at="2024-03-29T09:44:56 BRT" name="RequestGet" finished-at="2024-03-29T09:44:58 BRT" duration-ms="1715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestGet -->
+        <test-method signature="RequestPost()[pri:0, instance:restApiTest@4e3958e7]" started-at="2024-03-29T09:44:58 BRT" name="RequestPost" finished-at="2024-03-29T09:44:58 BRT" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestPost -->
+        <test-method signature="RequestPut()[pri:0, instance:restApiTest@4e3958e7]" started-at="2024-03-29T09:44:58 BRT" name="RequestPut" finished-at="2024-03-29T09:44:59 BRT" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestPut -->
+      </class> <!-- restApiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- restApiTest -->
+</testng-results>
